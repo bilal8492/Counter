@@ -26,12 +26,14 @@ body{
   justify-content: center;
   text-align: center;
   font-size: 80px;
+  color: floralwhite;
 }
 #counter{
   display: flex;
   justify-content: center;
   align-items: center;  
   font-size: 100px;
+  color:rgb(240, 248, 255);
 }
 .btn{
   display: flex;
